@@ -37,7 +37,7 @@ Sou desenvolvedora **Full-Stack** e atualmente curso **Engenharia de Software** 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/agatha-selbach-00816521b/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/agas1" target="_blank">
