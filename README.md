@@ -4,7 +4,7 @@ Sou desenvolvedora **Full-Stack** e atualmente curso **Engenharia de Software** 
 
 ---
 
-## 💁 Sobre mim
+## Sobre mim
 
 - 👩‍💻 Trabalho com desenvolvimento Full-Stack
 - 📚 Estudante de Engenharia de Software
