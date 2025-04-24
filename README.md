@@ -45,7 +45,6 @@ Sou desenvolvedora **Full-Stack** e atualmente curso **Engenharia de Software** 
   </a>
 </div>
 
----
 
 
 ⭐️ Feito por Ágatha Selbach
